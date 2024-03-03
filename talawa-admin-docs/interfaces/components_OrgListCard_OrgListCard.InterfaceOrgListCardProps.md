@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[src/components/OrgListCard/OrgListCard.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/OrgListCard/OrgListCard.tsx#L14)
+[src/components/OrgListCard/OrgListCard.tsx:15](https://github.com/Sauradip07/talawa-admin/blob/504276e/src/components/OrgListCard/OrgListCard.tsx#L15)
